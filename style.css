@@ -1,0 +1,31 @@
+body{
+    /* margin: 0; */
+    padding: 0;
+    background-color: #def3fd;
+}
+
+.topbar{
+    background-color: #779ecb;
+    padding: 24px;
+    width: 500;
+}
+.menu-item{
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 700;
+}
+.listheading{
+    font-size: 20px;
+    padding-left: 24px;
+    padding-top: 25;
+    margin-top: 18px;
+}
+.food-listitem{
+    font-size: 20px;
+}
+.food-image{
+    width: 400px;
+}
+.food-weapper{
+text-align: center;
+}
